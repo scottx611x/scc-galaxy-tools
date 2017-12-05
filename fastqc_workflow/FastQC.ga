@@ -27,11 +27,11 @@
             "tool_state": "{\"name\": \"Input Dataset\"}", 
             "tool_version": null, 
             "type": "data_input", 
-            "uuid": "983e8aa7-72ca-446a-95a4-dc5f645421ec",
+            "uuid": "983e8aa7-72ca-446a-95a4-dc5f645421ec", 
             "workflow_outputs": [
                 {
                     "label": null, 
-                    "output_name": "output",
+                    "output_name": "output", 
                     "uuid": "77b252a2-567b-4e1c-b5d1-41b8027ecca4"
                 }
             ]
@@ -84,7 +84,7 @@
             "tool_state": "{\"__page__\": 0, \"contaminants\": \"null\", \"__rerun_remap_job_id__\": null, \"limits\": \"null\", \"input_file\": \"null\"}", 
             "tool_version": "0.65", 
             "type": "tool", 
-            "uuid": "88cc0f74-d5ad-421b-9330-d3ff49c79bb0",
+            "uuid": "88cc0f74-d5ad-421b-9330-d3ff49c79bb0", 
             "workflow_outputs": [
                 {
                     "label": null, 
