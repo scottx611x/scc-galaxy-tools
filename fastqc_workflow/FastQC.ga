@@ -19,16 +19,20 @@
             "name": "Input dataset", 
             "outputs": [], 
             "position": {
+                "left": 315, 
+                "top": 410
             }, 
             "tool_errors": null, 
             "tool_id": null, 
             "tool_state": "{\"name\": \"Input Dataset\"}", 
             "tool_version": null, 
             "type": "data_input", 
+            "uuid": "983e8aa7-72ca-446a-95a4-dc5f645421ec",
             "workflow_outputs": [
                 {
                     "label": null, 
-                    "output_name": "output", 
+                    "output_name": "output",
+                    "uuid": "77b252a2-567b-4e1c-b5d1-41b8027ecca4"
                 }
             ]
         }, 
@@ -56,6 +60,8 @@
                 }
             ], 
             "position": {
+                "left": 599, 
+                "top": 351.5
             }, 
             "post_job_actions": {
                 "RenameDatasetActionhtml_file": {
@@ -78,16 +84,20 @@
             "tool_state": "{\"__page__\": 0, \"contaminants\": \"null\", \"__rerun_remap_job_id__\": null, \"limits\": \"null\", \"input_file\": \"null\"}", 
             "tool_version": "0.65", 
             "type": "tool", 
+            "uuid": "88cc0f74-d5ad-421b-9330-d3ff49c79bb0",
             "workflow_outputs": [
                 {
                     "label": null, 
                     "output_name": "html_file", 
+                    "uuid": "91f9c648-5ddc-495f-b3dd-f043c9af0862"
                 }, 
                 {
                     "label": null, 
                     "output_name": "text_file", 
+                    "uuid": "dcbdf17b-0c13-4418-b255-1cf411312b74"
                 }
             ]
         }
     }, 
+    "uuid": "4f81b632-d3cd-460f-9b3c-62593b41dfab"
 }
